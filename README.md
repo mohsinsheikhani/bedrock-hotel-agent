@@ -70,6 +70,6 @@ Once deployed:
 ## 🙋‍♂️ Contact
 
 Created by **Mohsin Sheikhani**  
-From Code to Cloud | AWS Cloud Engineer | AWS Community Builder | Serverless & IaC | Systems Design | Event-Driven Designs | GenAI | Agentic AI | Bedrock Agents | 3x AWS Certified
+From Code to Cloud | Hands-on Cloud Architect | AWS Community Builder | Serverless | Infrastructure as Code (IaC) | Systems Design | Event-Driven Designs | GenAI | Agentic AI | Bedrock Agents | 3x AWS Certified
 
 🚀 **Follow me on [LinkedIn](https://www.linkedin.com/in/mohsin-sheikhani/) for more AWS content!**
