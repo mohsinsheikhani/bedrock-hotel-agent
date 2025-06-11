@@ -2,6 +2,9 @@
 
 This project simulates how hotel chains can offer smarter, AI-powered booking experiences using Amazon Bedrock Agents.
 
+![Hotel Booking Amazon Bedrock Agent Architecture](https://github.com/user-attachments/assets/6a5e7bf3-033c-41e3-b22a-502366000bb8)
+
+
 Built with Claude, Knowledge Bases, and Lambda-based Action Groups, this assistant can:
 - Respond to queries about different types of rooms
 - Check room availability for specific dates
