@@ -67,7 +67,15 @@ cdk deploy
 
 Once deployed:
 - Upload your hotel PDF into the hotel-assets bucket
-- Go to the AWS Console to configure the agent, tools, and actions
+- And follow the article: [Hands-On with Amazon Bedrock Agents: Hotel Booking Assistant with Action Groups and Knowledge Bases](https://dev.to/mohsinsheikhani/hands-on-with-amazon-bedrock-agents-hotel-booking-assistant-with-action-groups-and-knowledge-bases-1j)
+
+## Demo
+
+![Demo-1-BedrockAgents](https://github.com/user-attachments/assets/693ddca5-c12a-4a61-b6ea-3a6aeee865bc)
+
+![Demo-2-BedrockAgents](https://github.com/user-attachments/assets/330e487d-ff1c-4aa4-af3b-c54bb283407c)
+
+![Demo-3-BedrockAgents](https://github.com/user-attachments/assets/d6ea9937-7ae7-454a-86aa-44a0a7fa2638)
 
 
 ## 🙋‍♂️ Contact
